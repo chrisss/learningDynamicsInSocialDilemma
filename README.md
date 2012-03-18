@@ -3,11 +3,18 @@
 
 > * Group Name: Macrisss
 > * Group participants names: Dorn Christian; Ernst Marina
-> * Project Title: How Learning & neighbourhood effect behaviour of a population in a social dilemma
+> * Project Title: Learning & neighbourhood effect behaviour of a population in a social dilemma
 
 ## General Introduction
 
-%Böh no überlegä
+% 
+Social dilemmas in populations are unavoidable. Different interests as different strategies of participants lead
+to complex behavior structures. International conflicts, as an example, can be modeled as a social dilemma model.
+Thus, international conflicts could be better understood as possibliy better solved trough having an adequate model. 
+This has been already done and lead to better understanding why international cooperation might not have succeed.
+
+But learning dynamics are not only interesting for models which represent real life problems but also for research of 
+more "intelligent" roboters. There is obviously still a huge potential in learning dynamics research.
 %
 %
 (States your motivation clearly: why is it important / interesting to solve this problem?)
@@ -27,6 +34,10 @@
 
 
 ## Fundamental Questions
+
+-Which advantages can an actor obtain trough learning?
+-Which learning strategies are effective, which are not?
+-Will the learning effect improve trough more complex strategies?
 
 (At the end of the project you want to find the answer to these questions)
 (Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
@@ -48,8 +59,9 @@
 
 %BM-stochastic leaarning model with balancing influence of neighbourhood
 %Cellular Automata
+%Agent-Based Model
 
-(Cellular Automata, Agent-Based Model, Continuous Modeling...) (If you are not sure here: 1. Consult your colleagues, 2. ask the teachers, 3. remember that you can change it afterwards)
+(Cellular Automata, Agent-Based Model, Continuous Modeling...) 
 
 
 ## Other
