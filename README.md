@@ -7,7 +7,7 @@
 
 ## General Introduction
 
-% 
+
 Social dilemmas in populations are unavoidable. Different interests as different strategies of participants lead
 to complex behavior structures. International conflicts, as an example, can be modeled as a social dilemma model.
 Thus, international conflicts could be better understood as possibliy better solved trough having an adequate model. 
@@ -15,11 +15,11 @@ This has been already done and lead to better understanding why international co
 
 But learning dynamics are not only interesting for models which represent real life problems but also for research of 
 more "intelligent" roboters. There is obviously still a huge potential in learning dynamics research.
-%
-%
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+
+
+%(States your motivation clearly: why is it important / interesting to solve this problem?)
+%(Add real-world examples, if any)
+%(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
 ## The Model
 
@@ -35,12 +35,12 @@ more "intelligent" roboters. There is obviously still a huge potential in learni
 
 ## Fundamental Questions
 
--Which advantages can an actor obtain trough learning?
--Which learning strategies are effective, which are not?
--Will the learning effect improve trough more complex strategies?
+%-Which advantages can an actor obtain trough learning?
+%-Which learning strategies are effective, which are not?
+%-Will the learning effect improve trough more complex strategies?
 
-(At the end of the project you want to find the answer to these questions)
-(Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
+%(At the end of the project you want to find the answer to these questions)
+%(Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
 
 
 ## Expected Results
