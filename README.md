@@ -1,9 +1,9 @@
 # MATLAB FS12 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: Macrisss
+> * Group Name: Macris
 > * Group participants names: Dorn Christian; Ernst Marina
-> * Project Title: Learning & neighbourhood effect behaviour of a population in a social dilemma
+> * Project Title: Ineractiv Learning dynamics in a social dilemma
 
 ## General Introduction
 
@@ -17,20 +17,19 @@ But learning dynamics are not only interesting for models which represent real l
 more "intelligent" roboters. There is obviously still a huge potential in learning dynamics research.
 
 
-%(States your motivation clearly: why is it important / interesting to solve this problem?)
-%(Add real-world examples, if any)
-%(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+(real world example)
 
 ## The Model
 
-%* social dilemmas: Chicken-/ Stage Hunt-/ Prisoners-Dilemma
-%variable payments
-%a mix of expectations (verschiedene soziale Schichten)
-%noise: deflective agents (max of expectation)
-%Learning: predictions of players based on experiential induction
+One assumes a population which is in one of the following social dilemmas: Chicken-/ Stage Hunt- or Prisoners-Dilemma.
+They base their decisions on individual learning process (experimental induction) which can be influenced by their nearest neighbourhood.
+it should be possible to vary the payments and set the initial expectations of the individuum and it's time dependancy. One can also imagine a local regulation, what would reflect an influence of the governement.
+With the cellular automata it is possible to perform a sort of peer pressure (the influence of the nearest neighbourhood on the individuum's decision).
+
+
+%Learning: predictions of players based on experimential induction
 %Near neighbourhood: "Social pressure to behave homogenous"
 %Local Input (governement rules) -> Cooperation&high expectations; eventually periodic
-(Define dependent and independent variables you want to study. Say how you want to measure them.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?)
 
 
 ## Fundamental Questions
