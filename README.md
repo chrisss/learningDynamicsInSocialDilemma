@@ -21,7 +21,7 @@ more "intelligent" roboters. There is obviously still a huge potential in learni
 
 ## The Model
 
-One assumes a population which is in one of the following social dilemmas: Chicken-/ Stage Hunt- or Prisoners-Dilemma.
+One assumes a population which is in one of the following social dilemmas: Chicken- or Stage Hunt-Dilemma.
 They base their decisions on individual learning process (experimental induction) which can be influenced by their nearest neighbourhood.
 it should be possible to vary the payments and set the initial aspirations of the individuum and it's time dependancy. One can also imagine a local regulation, what would reflect an influence of the governement.
 With the cellular automata it is possible to perform a sort of peer pressure (the influence of the nearest neighbourhood on the individuum's decision).
