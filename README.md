@@ -23,46 +23,41 @@ more "intelligent" roboters. There is obviously still a huge potential in learni
 
 One assumes a population which is in one of the following social dilemmas: Chicken-/ Stage Hunt- or Prisoners-Dilemma.
 They base their decisions on individual learning process (experimental induction) which can be influenced by their nearest neighbourhood.
-it should be possible to vary the payments and set the initial expectations of the individuum and it's time dependancy. One can also imagine a local regulation, what would reflect an influence of the governement.
+it should be possible to vary the payments and set the initial aspirations of the individuum and it's time dependancy. One can also imagine a local regulation, what would reflect an influence of the governement.
 With the cellular automata it is possible to perform a sort of peer pressure (the influence of the nearest neighbourhood on the individuum's decision).
 
 
-%Learning: predictions of players based on experimential induction
-%Near neighbourhood: "Social pressure to behave homogenous"
-%Local Input (governement rules) -> Cooperation&high expectations; eventually periodic
 
 
 ## Fundamental Questions
 
-%-Which advantages can an actor obtain trough learning?
-%-Which learning strategies are effective, which are not?
-%-Will the learning effect improve trough more complex strategies?
+How does competitivenes effect the process of learning?
+How much advantages can an actor obtain trough learning?
+Which learning strategies are effective, which are not?
+Will the learning effect improve trough more complex strategies?
+Is it possible to reach, with learning processes, a stable state which differs from the Nash-Equilibrium? 
+How do varying payments & expectation thresholds effect them?
 
-%(At the end of the project you want to find the answer to these questions)
-%(Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
 
 
 ## Expected Results
 
-(What are the answers to the above questions that you expect to find before starting your research?)
+-Intelligent learning leads to improved outcome for the individual actor. 
+-Trouth competitiveness, faster change of behavior is reached.
 
 
 ## References 
 
-(Add the bibliographic references you intend to use)
-(Explain possible extension to the above models)
-(Code / Projects Reports of the previous year)
+Learning_dynamics_in_social_dilemmas_Macy1999.pdf
+
 
 
 ## Research Methods
 
-%BM-stochastic leaarning model with balancing influence of neighbourhood
-%Cellular Automata
-%Agent-Based Model
-
-(Cellular Automata, Agent-Based Model, Continuous Modeling...) 
+BM-stochastic leaarning model with balancing influence of neighbourhood
+Cellular Automata
+Agent-Based Model
 
 
 ## Other
-%Learning_dynamics_in_social_dilemmas_Macy1999.pdf
-(mention datasets you are going to use)
+(mention datasets you are going to use) ??
