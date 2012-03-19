@@ -43,7 +43,7 @@ How do varying payments & expectation thresholds effect them?
 ## Expected Results
 
 -Intelligent learning leads to improved outcome for the individual actor. 
--Trouth competitiveness, faster change of behavior is reached.
+-Through competitiveness, faster change of behavior is reached.
 
 
 ## References 
