@@ -17,14 +17,12 @@ But learning dynamics are not only interesting for models which represent real l
 more "intelligent" roboters. There is obviously still a huge potential in learning dynamics research.
 
 
-(real world example)
-
 ## The Model
 
-One assumes a population which is in one of the following social dilemmas: Chicken- or Stage Hunt-Dilemma.
+One assumes a population which is in the Chicken-Dilemma.
 They base their decisions on individual learning process (experimental induction) which can be influenced by their nearest neighbourhood.
-it should be possible to vary the payments and set the initial aspirations of the individuum and it's time dependancy. One can also imagine a local regulation, what would reflect an influence of the governement.
-With the cellular automata it is possible to perform a sort of peer pressure (the influence of the nearest neighbourhood on the individuum's decision).
+It should be possible to vary the payments and set the initial aspirations of the individuum and it's time dependancy. One can also imagine a local regulation, what would reflect an influence of the governement.
+With the cellular automata it is possible to perform a sort of peer pressure (the influence of the nearest neighbourhood on the individuum's decision), what is what we want to observe in detail.
 
 
 
@@ -37,6 +35,7 @@ Which learning strategies are effective, which are not?
 Will the learning effect improve trough more complex strategies?
 Is it possible to reach, with learning processes, a stable state which differs from the Nash-Equilibrium? 
 How do varying payments & expectation thresholds effect them?
+Does peer pressure lead to cooperation?
 
 
 
@@ -60,4 +59,3 @@ Agent-Based Model
 
 
 ## Other
-(mention datasets you are going to use) ??
