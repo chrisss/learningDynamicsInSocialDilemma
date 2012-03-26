@@ -24,7 +24,8 @@ They base their decisions on individual learning process (experimental induction
 It should be possible to vary the payments and set the initial aspirations of the individuum and it's time dependancy. One can also imagine a local regulation, what would reflect an influence of the governement.
 With the cellular automata it is possible to perform a sort of peer pressure (the influence of the nearest neighbourhood on the individuum's decision), what is what we want to observe in detail.
 
-
+More details to the learning process:
+We want to perform learning by a stimulus which is depending of the previous achieved payment and the aspiration of the player. Like this one gets a positiv or negativ stimulus depending if the payoff was satisfactory or not.
 
 
 ## Fundamental Questions
