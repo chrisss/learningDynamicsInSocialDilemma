@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Individual contributions}{5}
+\contentsline {subsection}{\numberline {1.1}Christian Dorn}{5}
+\contentsline {subsection}{\numberline {1.2}Marina Ernst}{5}
+\contentsline {section}{\numberline {2}Introduction and Motivations}{6}
+\contentsline {section}{\numberline {3}Description of the Model}{7}
+\contentsline {subsection}{\numberline {3.1}Replicator Dynamics}{7}
+\contentsline {subsection}{\numberline {3.2}Cellular Automata}{9}
+\contentsline {section}{\numberline {4}Implementation}{10}
+\contentsline {subsection}{\numberline {4.1}Replicator Dynamics}{10}
+\contentsline {subsubsection}{\numberline {4.1.1}2-dimensional}{10}
+\contentsline {subsubsection}{\numberline {4.1.2}3-dimensional}{11}
+\contentsline {subsection}{\numberline {4.2}3x3 Cellular Automaton}{13}
+\contentsline {subsection}{\numberline {4.3}Cellular Automaton}{15}
+\contentsline {subsubsection}{\numberline {4.3.1}Chickendilemma Script}{15}
+\contentsline {subsubsection}{\numberline {4.3.2}Initialization}{18}
+\contentsline {subsubsection}{\numberline {4.3.3}Playfunction}{19}
+\contentsline {subsubsection}{\numberline {4.3.4}Updatefunction}{20}
+\contentsline {subsubsection}{\numberline {4.3.5}Runningplay- and Plotting File}{22}
+\contentsline {section}{\numberline {5}Simulation Results and Discussion}{22}
+\contentsline {subsection}{\numberline {5.1}Replicator Dynamics}{22}
+\contentsline {subsection}{\numberline {5.2}3x3 Cellular Automaton}{28}
+\contentsline {subsection}{\numberline {5.3}Cellular Automaton}{28}
+\contentsline {section}{\numberline {6}Summary and Outlook}{30}
+\contentsline {section}{\numberline {7}References}{30}
